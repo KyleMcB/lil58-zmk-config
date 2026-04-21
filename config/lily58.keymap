@@ -200,9 +200,9 @@
             // Note: NOTIF (H) requires a custom shortcut set in System Settings → Keyboard → Shortcuts → Mission Control
 
             bindings = <
+&trans  &trans  &trans  &trans  &trans  &trans                           &trans       &trans        &trans         &trans         &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans                           &trans       &kp LC(UP)    &kp LC(LG(F))  &trans         &trans  &kp LG(Q)
 &trans  &trans  &trans  &trans  &trans  &trans                           &kp LC(F12)  &kp LC(LEFT)  &kp LC(DOWN)   &kp LC(RIGHT)  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                           &trans       &trans        &trans         &trans         &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans         &trans       &trans        &trans         &trans         &trans  &trans
                         &trans  &trans  &trans  &trans    &kp LG(SPACE)  &trans       &trans        &trans
             >;
@@ -220,9 +220,9 @@
             //                         └───────┴───────┴───────┴───────┘  └───────┴───────┴──────────┴──────────┘
 
             bindings = <
+&trans  &trans  &trans  &trans  &trans  &trans                       &trans     &trans        &trans      &trans         &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans                       &trans     &kp LG(TAB)   &kp LG(UP)  &trans         &trans  &kp LA(F4)
 &trans  &trans  &trans  &trans  &trans  &trans                       &kp LG(A)  &kp LG(LEFT)  &kp LG(D)   &kp LG(RIGHT)  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                       &trans     &trans        &trans      &trans         &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans     &trans     &trans        &trans      &trans         &trans  &trans
                         &trans  &trans  &trans  &trans    &kp LG(S)  &trans     &trans        &trans
             >;

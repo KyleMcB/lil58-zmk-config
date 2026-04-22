@@ -136,10 +136,10 @@
             //                         └───────┴───────┴───────┴───────┘  └───────┴───────┴───────┴───────┘
 
             bindings = <
+&trans  &trans    &trans  &trans    &trans    &trans                          &trans     &trans    &trans     &trans     &trans     &trans
 &trans  &trans    &trans  &kp AMPS  &kp LBRC  &kp MINUS                       &kp PLUS   &kp RBRC  &kp PIPE   &trans     &trans     &trans
 &trans  &kp EXCL  &kp AT  &kp HASH  &kp LPAR  &kp PRCNT                       &kp CARET  &kp RPAR  &kp ASTRK  &kp GRAVE  &kp TILDE  &trans
-&trans  &trans    &trans  &trans    &kp SQT   &kp BSLH                        &trans     &trans    &kp FSLH   &kp DQT    &trans     &trans
-&trans  &trans    &trans  &trans    &trans    &trans     &kp EQUAL    &trans  &trans     &trans
+&trans  &trans    &trans  &trans    &kp SQT   &kp BSLH   &kp EQUAL    &trans  &kp FSLH   &kp DQT
             >;
         };
 
